@@ -1,0 +1,14 @@
+{
+  "files": {
+    "main.css": "/QuillBotTask/static/css/main.e6c13ad2.css",
+    "main.js": "/QuillBotTask/static/js/main.9c1c541e.js",
+    "static/media/avatar.svg": "/QuillBotTask/static/media/avatar.5004a88509e995229d33a3128d287eb9.svg",
+    "index.html": "/QuillBotTask/index.html",
+    "main.e6c13ad2.css.map": "/QuillBotTask/static/css/main.e6c13ad2.css.map",
+    "main.9c1c541e.js.map": "/QuillBotTask/static/js/main.9c1c541e.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.e6c13ad2.css",
+    "static/js/main.9c1c541e.js"
+  ]
+}
